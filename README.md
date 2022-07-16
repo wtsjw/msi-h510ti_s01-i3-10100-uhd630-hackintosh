@@ -6,9 +6,11 @@ msi h510ti_s01 + i3-10100 with uhd630 EFI ，Intel 500系主板支持核显输�
 
 请在Tool文件夹下载：
 
-EDID_ManagerV1.0.zip
+EDID_Manager V1.0
 
-Hackintool3.87.zip
+Hackintool v3.87
+
+OpenCore Configurator2.55
 
 # 详细步骤
 
