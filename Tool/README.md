@@ -1,5 +1,7 @@
 # 相关工具
 
-EDID_ManagerV1.0.zip
+EDID_Manager V1.0
 
-Hackintool3.87.zip
+Hackintool v3.87
+
+OpenCore Configurator 2.55
