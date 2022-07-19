@@ -16,4 +16,4 @@ OpenCore Configurator2.55
 
 请参考Help文件夹：
 
-注入EDID，让Intel 500系主板+ 10代U支持HDMI核显输出.docx
+注入EDID，让Intel 500系主板+ 10代U黑苹果支持核显输出.pdf
