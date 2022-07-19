@@ -1,6 +1,6 @@
-# MSI h510ti_s01 + i3-10100 uhd630 ，Intel 500系主板支持核显输出
+# MSI h510ti_s01 + i3-10100 uhd630 ，Intel 500系主板实现核显输出
 
-msi h510ti_s01 + i3-10100 with uhd630 EFI ，Intel 500系主板支持核显输出。
+msi h510ti_s01 + i3-10100 with uhd630 EFI ，Intel 500系主板实现核显输出。
 
 # 相关工具
 
