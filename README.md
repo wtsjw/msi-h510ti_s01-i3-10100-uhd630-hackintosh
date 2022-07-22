@@ -1,6 +1,6 @@
-# MSI h510ti_s01 + i3-10100 uhd630 ，Intel 500系主板实现核显输出
+# MSI h510ti_s01 + i3-10100 uhd630 EFI，Intel 500系主板实现核显输出
 
-msi h510ti_s01 + i3-10100 with uhd630 EFI ，Intel 500系主板实现核显输出。
+Intel 500系主板（h510 b560 z590）+ 10代U （i3-10100 10105 i5-10400 10500 i7-10700）支持核显输出。
 
 # 相关工具
 
@@ -14,6 +14,6 @@ OpenCore Configurator2.55
 
 # 详细步骤
 
-请参考Help文件夹：
+请参考：
 
 注入EDID，让Intel 500系主板+ 10代U黑苹果支持核显输出.pdf
