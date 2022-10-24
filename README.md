@@ -14,7 +14,7 @@ OpenCore Configurator2.55
 
 # 详细步骤
 
-请参考说明文档或访问 <a href="https://jingyan.baidu.com/article/39810a23a8dac4f737fda6d1.html" target="_blank" >百度经验</a>
+请参考说明文档或查看 <a href="https://jingyan.baidu.com/article/39810a23a8dac4f737fda6d1.html" target="_blank" >百度经验</a>
 
 
 注入EDID，让Intel 500系主板+ 10代U黑苹果支持核显输出.pdf
